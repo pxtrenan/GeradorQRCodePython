@@ -1,0 +1,7 @@
+Abra seu CMD
+
+Se você ja tiver Python instalado na sua máquina, digite:
+
+pip install qrcode
+
+Depois disso o programa funciona
